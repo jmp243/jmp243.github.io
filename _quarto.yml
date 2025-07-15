@@ -1,19 +1,24 @@
 project:
   type: website
+  output-dir: docs
+
+key: value
 
 website:
-  title: "jmp243.github.io"
+  title: "Jung Mee Park, PhD"
   navbar:
     left:
       - href: index.qmd
         text: Home
       - about.qmd
+      - publications.qmd
+      
 
 format:
   html:
-    theme: cosmo
+    theme: minty
     css: styles.css
     toc: true
 
-
+editor: visual
 
