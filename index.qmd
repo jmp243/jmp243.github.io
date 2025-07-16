@@ -9,5 +9,4 @@ To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 ![](_12A0886.jpg)
 
 ```         
-``` 
-
+```
