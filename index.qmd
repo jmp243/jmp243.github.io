@@ -1,5 +1,7 @@
 ---
 title: "Welcome to my website"
+about:
+    template: jolla
 ---
 
 This is a Quarto website.

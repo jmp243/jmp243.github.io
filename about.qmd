@@ -1,7 +1,9 @@
 ---
 title: "About"
 ---
+
 ![](_12A0892.jpg)
+
 ## Hello!
 
 I am Jung Mee Park. I am a Young Adult librarian with the Pima County Public Library. Previously, I worked as a data analyst at the University of Arizona. I worked with UA's University Information Technology Services's CRM division, Trellis. Within Trellis, I was on the Data Strategy and Quality Team.
@@ -10,8 +12,8 @@ Some of the tools I use regularly include Salesforce, R, Python, SQL, and Tablea
 
 ## Education
 
--   **PhD** in Sociology, **Cornell University**
 -   **MLIS** in Library and Information Sciences, **University of Arizona**
+-   **PhD** in Sociology, **Cornell University**
 -   **MA** in Quantitative Methods in the Social Sciences, **Columbia University**
 -   **BA** (*magna cum laude*) in History and Sociology, **University of Pennsylvania**
 
