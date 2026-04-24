@@ -1,0 +1,37 @@
+[
+  {
+    "objectID": "about.html#hello",
+    "href": "about.html#hello",
+    "title": "About",
+    "section": "Hello!",
+    "text": "Hello!\nMy name is Jung Mee Park. I am a Data Librarian at Wichita State University. Previously, I worked as a Young Adult Librarian with the Pima County Public Library. Previously, I worked as a data analyst at the University of Arizona. Within UA’s University Information Technology Services’s CRM division (Trellis), I was on the Data Strategy and Quality Team.\nSome of the tools I use regularly include Salesforce, R, Python, SQL, and Tableau."
+  },
+  {
+    "objectID": "about.html#education",
+    "href": "about.html#education",
+    "title": "About",
+    "section": "Education",
+    "text": "Education\n\nMLIS in Library and Information Sciences, University of Arizona\nPhD in Sociology, Cornell University\nMA in Quantitative Methods in the Social Sciences, Columbia University\nBA (magna cum laude) in History and Sociology, minor in music University of Pennsylvania"
+  },
+  {
+    "objectID": "about.html#recent-work-experience",
+    "href": "about.html#recent-work-experience",
+    "title": "About",
+    "section": "Recent Work Experience",
+    "text": "Recent Work Experience\n\n1/4/2026 to present Data Librarian at the Wichita State University\n1/13/2025 to 1/2/2026 Librarian I at the Pima County Public Library\n7/28/2021 to 10/31/2024 Data Analyst III at the University of Arizona, University Information and Technology Services\n7/1/2016 to 7/14/2021 College Counselor at BASIS Tucson North\n5/2021-8/2021 Discovery and Usability Intern at the University of Arizona, University Libraries\n\n\nConnect with me on LinkedIn"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome to my website",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Kane, Danielle and Jung Mee Park. “The Puzzle of Korean Christianity: Geopolitical Networks and Religious Conversion in Early Twentieth-Century Asia,” American Journal of Sociology, September 2009\n\n(2011 co-winner of the American Sociological Association’s Comparative Historical Section Best Article Award)\n\nLink to Article\nJung Mee Park and Julian Wang. “Interpreting the Maritime and Overland Trade Regulations of 1882 between Chosŏn and the Qing: How Logics of Appropriateness shaped Sino-Korean Relations,” International Area Studies Review, March 2020\nLink to Article\nJung Mee Park. “Statistics Training in Library Science: Comparing Approaches in Library & Information Science to Sociology Graduate Programs,” Journal of Education in Library and Information Science\nLink to Article\n\nConnect with me\n\nFollow me on GoogleScholar\nFind me on ORCID"
+  }
+]
