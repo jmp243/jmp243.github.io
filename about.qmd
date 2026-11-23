@@ -6,7 +6,7 @@ title: "About"
 
 ## Hello!
 
-My name is Jung Mee Park. I am a Data Librarian at Wichita State University. Previously, I worked as a Young Adult Librarian with the Pima County Public Library. Previously, I worked as a data analyst at the University of Arizona. Within UA's University Information Technology Services's CRM division (Trellis), I was on the Data Strategy and Quality Team.
+My name is Jung Mee Park. I am an award-winning sociologist currently working as a Data Librarian and Assistant Professor at Wichita State University. Previously, I worked as a data analyst at the University of Arizona and a postdoctoral fellow at the University of Southern California. Within UA's University Information Technology Services's CRM division (Trellis), I was on the Data Strategy and Quality Team.
 
 Some of the tools I use regularly include Salesforce, R, Python, SQL, and Tableau.
 
@@ -18,10 +18,14 @@ Some of the tools I use regularly include Salesforce, R, Python, SQL, and Tablea
 -   **BA** (*magna cum laude*) in History and Sociology, minor in music **University of Pennsylvania**
 
 ## Recent Work Experience
--   1/4/2026 to present **Data Librarian** at the **Wichita State University**
+-   1/4/2026 to present **Data Librarian and Assistant Professor** at the **Wichita State University**
 -   1/13/2025 to 1/2/2026 **Librarian I** at the **Pima County Public Library**
 -   7/28/2021 to 10/31/2024 **Data Analyst III** at the **University of Arizona, University Information and Technology Services**
 -   7/1/2016 to 7/14/2021 **College Counselor** at **BASIS Tucson North**
 -   5/2021-8/2021 **Discovery and Usability Intern** at the **University of Arizona, University Libraries**
 
-### Connect with me on [LinkedIn](https://www.linkedin.com/in/jmp243/)
+### Connect with me 
+- [GitHub](https://github.com/jmp243)
+- [GoogleScholar](https://scholar.google.com/citations?user=U0lNPKcAAAAJ&hl=en)
+- [LinkedIn](https://www.linkedin.com/in/jmp243/)
+- [ORCID](https://orcid.org/0000-0003-0977-9404)
